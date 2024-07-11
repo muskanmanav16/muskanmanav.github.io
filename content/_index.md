@@ -233,7 +233,7 @@ sections:
       text: |-
         If you want to reach out to me, you can use the form below.
       # Contact (add or remove contact options as necessary)
-      email: u.goekay@uni-bonn.de
+      email: muskanmanv16@gmail.com
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       address:
